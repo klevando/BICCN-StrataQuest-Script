@@ -1,4 +1,4 @@
-% Program to plot expression of various genes across a brain slice based 
+% Script to plot expression of various genes across a brain slice based 
 % on StrataQuest results. 
 % 2022-08-31 - Kirsten Levandowski
 
