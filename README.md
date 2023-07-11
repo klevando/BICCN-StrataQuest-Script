@@ -5,8 +5,7 @@ Krienen et al. 'A marmoset brain cell census reveals influence of developmental 
 Contact:
 Fenna Krienen - fkrienen@princeton.edu
 
-Cite As:
-
+Cite: Krienen et al.
 
 Dependencies:
 'dscatter' function > Robert Henson (2023). Flow Cytometry Data Reader and Visualization (https://www.mathworks.com/matlabcentral/fileexchange/8430-flow-cytometry-data-reader-and-visualization), MATLAB Central File Exchange. Retrieved May 31, 2023.
